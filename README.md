@@ -123,7 +123,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👥 Time
 
-- **[Seu Nome]** - Idealizador e Desenvolvedor Principal
+- **Igor Gusev** - Idealizador e Desenvolvedor Principal
 
 ## 🙏 Agradecimentos
 
