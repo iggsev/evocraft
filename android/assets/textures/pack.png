@@ -1,0 +1,18 @@
+<svg viewBox="0 0 256 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Grass -->
+  <rect x="0" y="0" width="32" height="32" fill="#33cc33" />
+  <!-- Dirt -->
+  <rect x="32" y="0" width="32" height="32" fill="#996633" />
+  <!-- Sand -->
+  <rect x="64" y="0" width="32" height="32" fill="#e6cc80" />
+  <!-- Stone -->
+  <rect x="96" y="0" width="32" height="32" fill="#808080" />
+  <!-- Water -->
+  <rect x="128" y="0" width="32" height="32" fill="#1a4db2" />
+  <!-- Forest -->
+  <rect x="160" y="0" width="32" height="32" fill="#008000" />
+  <!-- Mountain -->
+  <rect x="192" y="0" width="32" height="32" fill="#a6a6b2" />
+  <!-- Snow -->
+  <rect x="224" y="0" width="32" height="32" fill="#f2f2ff" />
+</svg>
